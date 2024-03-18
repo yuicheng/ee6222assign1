@@ -1,0 +1,3 @@
+*.npy
+data/*
+EE6222Dataset/*
